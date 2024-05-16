@@ -1,0 +1,25 @@
+@font-face{
+    font-weight: 700;
+    font-family: "Golos";
+    src: url(../fonts/Golos-Text_Bold.ttf);
+    font-style: normal;
+}
+ /* Thin - 100 */
+    /* Light - 300 */
+    /* Medium - 500 */
+    /* SemiBold - 600 */
+    /* Bold - 700 */
+    /* ExtraBold - 800 */
+    /* Black - 900 */
+@font-face{
+    font-weight: 600;
+    font-family: "Golos";
+    src: url(../fonts/Golos-Text_DemiBold.ttf);
+    font-style: normal;
+}
+@font-face{
+    font-weight: 400;
+    font-family: "Golos";
+    src: url(../fonts/Golos-Text_Regular.ttf);
+    font-style: normal;
+}
